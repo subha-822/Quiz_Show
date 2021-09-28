@@ -1,0 +1,29 @@
+ul{
+    list-style: none;
+    padding: 10px;
+    text-align: right;
+}
+a
+{
+    padding-right: 20px;
+}
+header{
+    background-color: slategray;
+    font-size: larger;
+    padding: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+.contact
+{
+   text-align: center;
+}
+body{
+    padding: 10px;
+}
+*
+{
+    font-family: monospace;
+    color: black;
+
+}
